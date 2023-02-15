@@ -10,7 +10,7 @@
 
 <body>
     <h1>Hello world!</h1>
-    <a href="/chi-siamo">chi siamo?</a>
+    <a href="{{ route('chi-siamo') }}">Chi siamo?</a>
 </body>
 
 </html>

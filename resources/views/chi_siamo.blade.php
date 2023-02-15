@@ -10,6 +10,7 @@
 
 <body>
     <h1>Siamo noi</h1>
+    <a href="{{ route('home') }}">Torna alla home</a>
 </body>
 
 </html>
